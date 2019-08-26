@@ -12,11 +12,11 @@ html, body{
 .background{
     width: 100%;
     height: 100%;
-    background-image: url(../styles/images/background.jpg);
+    background-image: url(../altstyles/images/background.jpg);
     background-size: cover;
 }
 .navbar{
-    background-image: url(../styles/images/navigationbars.jpg);
+    background-image: url(../altstyles/images/navigationbars.jpg);
     text-align: center;
     padding: 10px;
     opacity: 0.6;
@@ -160,7 +160,7 @@ html, body{
     border-top: 1px solid floralwhite;
 }
 .skills-section{
-    background-image:  url(../styles/images/plain.jpg);
+    background-image:  url(../altstyles/images/plain.jpg);
     text-align: center;
     width: 100%;
     height: 100%;
@@ -235,7 +235,7 @@ textarea{
     font-size: 20px;
 }
 .footer{
-    background-image: url("../styles/images/navigationbars.jpg");
+    background-image: url("../altstyles/images/navigationbars.jpg");
     font-size: 20px;
     height: 100%;
     padding: 10px;
